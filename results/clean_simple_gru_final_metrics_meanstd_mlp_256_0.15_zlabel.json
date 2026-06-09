@@ -1,0 +1,29 @@
+{
+  "val": {
+    "mse": 0.0572784423828125,
+    "rmse_valence": 0.2594536794112662,
+    "rmse_arousal": 0.21734919086669433,
+    "mae_valence": 0.20617222785949707,
+    "mae_arousal": 0.1709829717874527,
+    "corr_valence": 0.1455676257610321,
+    "corr_arousal": 0.11580909043550491,
+    "pred_valence_std": 0.059820257127285004,
+    "pred_arousal_std": 0.09647262096405029,
+    "true_valence_std": 0.25599920749664307,
+    "true_arousal_std": 0.20463964343070984
+  },
+  "test": {
+    "mse": 0.06723552857126508,
+    "rmse_valence": 0.2657569809810437,
+    "rmse_arousal": 0.2526742683879013,
+    "mae_valence": 0.21591998636722565,
+    "mae_arousal": 0.21422086656093597,
+    "corr_valence": 0.1330985277891159,
+    "corr_arousal": 0.03521379455924034,
+    "pred_valence_std": 0.07872699201107025,
+    "pred_arousal_std": 0.06965982913970947,
+    "true_valence_std": 0.2583645284175873,
+    "true_arousal_std": 0.23274579644203186
+  },
+  "checkpoint": "/content/drive/MyDrive/2025/ASD_Project/DEAP_Data/models/meanstd_mlp_256_0.15_zlabel_best_corr.pt"
+}
